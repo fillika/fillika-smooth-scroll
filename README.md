@@ -5,13 +5,14 @@ Smooth scroll on vanilla JS
 
 ```
 import smoothScroll from 'fillika-smooth-scroll'
-```
 
-```
 button.addEventListener('click', function() {
   smoothScroll(config);
 })
 ```
+
+*or* you can download file from dist forder and add to your HTML as as script function smoothScroll will be available global.
+
 # Config
 
 Here is only one require attribute - target.
