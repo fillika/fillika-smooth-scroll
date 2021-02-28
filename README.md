@@ -25,7 +25,9 @@ const config = {
 ```
 
 ## animationName
-// http://gizma.com/easing/
+http://gizma.com/easing/
+
+
 animationName can be:
 - linear (default)
 - easeOutQuad
