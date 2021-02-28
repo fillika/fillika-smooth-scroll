@@ -1,5 +1,5 @@
 {
-  "name": "@fillika/smooth-scroll",
+  "name": "fillika-smooth-scroll",
   "version": "1.0.0",
   "description": "Smooth scroll on Vanilla JS",
   "main": "index.js",

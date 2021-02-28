@@ -4,7 +4,7 @@ Smooth scroll on vanilla JS
 # How to use
 
 ```
-import smoothScroll from '@fillika/smooth-scroll'
+import smoothScroll from 'fillika-smooth-scroll'
 ```
 
 ```
