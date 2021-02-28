@@ -1,0 +1,29 @@
+{
+  "name": "@fillika/smooth-scroll",
+  "version": "1.0.0",
+  "description": "Smooth scroll on Vanilla JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fillika/smooth-scroll.git"
+  },
+  "keywords": [
+    "Javsscript",
+    "Vanilla",
+    "JS",
+    "scroll",
+    "Smooth",
+    "scroll",
+    "smooth-scroll",
+    "js"
+  ],
+  "author": "Alexandr Mironenko",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fillika/smooth-scroll/issues"
+  },
+  "homepage": "https://github.com/fillika/smooth-scroll#readme"
+}
