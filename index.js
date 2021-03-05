@@ -19,7 +19,7 @@ function smoothScroll(config) {
   } = config;
 
   if (config.target === undefined) {
-    console.error("Требуется передать свойство target в объект config");
+    console.error("property 'target' is required");
     return;
   }
 
