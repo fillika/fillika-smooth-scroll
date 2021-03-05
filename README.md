@@ -12,7 +12,12 @@ button.addEventListener('click', function() {
 ```
 
 
-**or** you can download file from *dist* forder and add to your HTML as script function smoothScroll will be available global.
+**or** you can add library from CND
+
+```
+<script src="https://unpkg.com/fillika-smooth-scroll@1.0.4/dist/smoothScroll.min.js"></script>
+```
+
 
 # Config
 
