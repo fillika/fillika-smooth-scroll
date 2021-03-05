@@ -11,7 +11,8 @@ button.addEventListener('click', function() {
 })
 ```
 
-*or* you can download file from dist forder and add to your HTML as as script function smoothScroll will be available global.
+
+**or** you can download file from *dist* forder and add to your HTML as script function smoothScroll will be available global.
 
 # Config
 
@@ -35,5 +36,3 @@ animationName can be:
 - easeInQuad
 - easeInOutQuad
 - easeInCubic
-
-You can find animation in animation.js. Also you can add your animation in this file

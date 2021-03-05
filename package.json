@@ -1,6 +1,6 @@
 {
   "name": "fillika-smooth-scroll",
-  "version": "1.0.0",
+  "version": "1.0.4",
   "description": "Smooth scroll on Vanilla JS",
   "main": "index.js",
   "scripts": {
@@ -13,10 +13,10 @@
   "keywords": [
     "Javsscript",
     "Vanilla",
-    "JS",
+    "Javascript scroll",
     "scroll",
-    "Smooth",
-    "scroll",
+    "smoothScroll",
+    "scroll js",
     "smooth-scroll",
     "js"
   ],
